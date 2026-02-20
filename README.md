@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAINT ANDRE Jeffrey</h1>
 <h3 align="center">Data Science & AI Engineering student with 1+ year of experience at Renault Group (Ampère) from France</h3>
 
-- I'm currently studying [Data & AI at ESILV (Top-tier French Engineering School)](https://www.esilv.fr/)
+- I'm currently studying Data & AI at [ESILV](https://www.esilv.fr/) (Top-tier French Engineering School)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Mathematics and Computer Science**
 
