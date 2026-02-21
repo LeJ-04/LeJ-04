@@ -3,6 +3,8 @@
 
 - I'm currently studying Data & AI at [ESILV](https://www.esilv.fr/) (Top-tier French Engineering School)
 
+- I'm also working as an apprentice at [Ampere](https://www.ampere.cars/), the electric vehicle subsidiary of [Renault Group](https://www.renaultgroup.com/), in a position as an engineer in implementation of AI/Data science methods to improve the design of automative software architectures.
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Mathematics and Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeJ-04](https://github.com/LeJ-04)
