@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAINT ANDRE Jeffrey</h1>
 <h3 align="center">Data Science & AI Engineering student with 1+ year of experience at Renault Group (Ampère) from France</h3>
 
-- I'm currently studying Data & AI at [ESILV](https://www.esilv.fr/) (Top-tier French Engineering School)
+- I'm currently studying Data & AI at [École supérieure d'ingénieurs Léonard-de-Vinci (ESILV)](https://www.esilv.fr/) (Top-tier French Engineering School)
 
 - I'm also working as an apprentice at [Ampere](https://www.ampere.cars/), the electric vehicle subsidiary of 
 [Renault Group](https://www.renaultgroup.com/), in a position as an engineer in implementation of AI/Data science methods to improve the design of automative software architectures.
